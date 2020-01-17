@@ -1,6 +1,7 @@
 ### *Data and Code*
 ## HCVpred: A web server for predicting the bioactivity of Hepatitis C virus NS5B inhibitors
-HCVpred
+
+Summary table of the data and code for this research project.
 
 Name of folder/file | Description
 --- | ---
